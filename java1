@@ -1,8 +1,8 @@
-hai hello how are u
+hai hello how are u .....from1
 
-class hello
+class hello ......from3
 {
-	public static void main()
+	public static void main(from5)
 	{
 		system.out.println("hai");
 	}
