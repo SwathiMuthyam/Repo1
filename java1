@@ -1,0 +1,10 @@
+hai hello how are u
+
+class hello
+{
+	public static void main()
+	{
+		system.out.println("hai");
+	}
+
+}	
